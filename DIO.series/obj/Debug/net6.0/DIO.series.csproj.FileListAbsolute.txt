@@ -1,0 +1,15 @@
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/bin/Debug/net6.0/DIO.series
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/bin/Debug/net6.0/DIO.series.deps.json
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/bin/Debug/net6.0/DIO.series.runtimeconfig.json
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/bin/Debug/net6.0/DIO.series.dll
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/bin/Debug/net6.0/ref/DIO.series.dll
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/bin/Debug/net6.0/DIO.series.pdb
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/obj/Debug/net6.0/DIO.series.csproj.AssemblyReference.cache
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/obj/Debug/net6.0/DIO.series.GeneratedMSBuildEditorConfig.editorconfig
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/obj/Debug/net6.0/DIO.series.AssemblyInfoInputs.cache
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/obj/Debug/net6.0/DIO.series.AssemblyInfo.cs
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/obj/Debug/net6.0/DIO.series.csproj.CoreCompileInputs.cache
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/obj/Debug/net6.0/DIO.series.dll
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/obj/Debug/net6.0/ref/DIO.series.dll
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/obj/Debug/net6.0/DIO.series.pdb
+/home/adaatii/Documentos/Github/Desafio_APP_simples_cadastro_series_.NET_DIO/DIO.series/obj/Debug/net6.0/DIO.series.genruntimeconfig.cache
